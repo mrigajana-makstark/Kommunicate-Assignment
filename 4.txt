@@ -1,0 +1,10 @@
+The best project I have worked on according to me is CureIt. This is a stress management web app build by our team. In this app anyone dealing mental stress can come and talk anonymously with counsellors and other peers without any payment or any terms and condition. They can even book an appointment with counsellors through out portal. There is an recomendation test where the peers can come and mark their symptoms and they are also helped to book an appointment. We have a chatbot in there using web rtc where people can chat and feel open and free anonymously. There data is not recorded and hence they feel no problem even in sharing their darkest secrects. The chat is peer to peer and has an auto delete function where once the party leaves the chat room all the data is deleted.
+As college students returned or entered college this fall, the important issue of anxiety and depression is a discussion that parents, college students and professionals who work with students do not want to forget.
+
+As we know, most middle and high school students have schedules that rival top corporate executives, with an average day beginning at 6 a.m. and ending at 10 p.m. or later. This punishing schedule leaves them sleep-deprived with little time to develop basic independent living skills, such as laundry, cooking meals, being an employee, managing money and accessing services to meet their needs ― all while figuring out "Who am I?"
+
+According to a survey by MayoClinic Health System Org Up to 44% of college students reported having symptoms of depression and anxiety.
+
+The taboo surrounding mental health problems and the unwillingness of most colleges to take up the cost of professional counseling make India’s youth highly vulnerable. We have come up with a podium for all students to let out their feelings and a safe place where they can share their issues without any questions or judgment, by keeping identity anonymous.
+
+To visit the site click on https://www.tinyurl.com/stresscureit
